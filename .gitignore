@@ -41,5 +41,6 @@ Temporary Items
 .apdisk
 
 /.idea/
-/WordOrderProcessing.iml
-/out/
+/target/
+/WorkOrderProcessing.iml
+/*.json
